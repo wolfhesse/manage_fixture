@@ -8,6 +8,9 @@ Similarly, if you want to import a selected set of Models, you can do that using
 
 = INSTALLATION
 
+  [%] git clone git://github.com/wolfhesse/manage_fixture.git vendor/plugins/manage_fixtures
+    moved tasks directory to lib
+
   [%] git clone git://github.com/jvnill/manage_fixture.git vendor/plugins/manage_fixtures
 
 
